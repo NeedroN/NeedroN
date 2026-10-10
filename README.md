@@ -2,7 +2,7 @@
 - 👀 I’m studying a bachelor's degree for computer science ( Multimedeia Computing)
 - 🌱 I’m currently learning Machine Learning and LLM
 - 💞️ I’m looking to collaborate on AI development
-- 📫 How to reach me imhaysbusiness@gmail.com
+- 📫 How to reach me needron.contact@gmail.com
 
 <!---
 NeedroN/NeedroN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
